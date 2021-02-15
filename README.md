@@ -1,3 +1,3 @@
 # NCKH
-# file DCL_processing.py là file thực hiện các thuật toán
-# file test_DCL.py để thực hiện thuật toán cho nhiều ảnh
+# File DCL_processing.py to implement algorithms
+# File test_DCL.py to implement algorithms many pictures simultaneously
